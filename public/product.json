@@ -1,0 +1,326 @@
+[
+    {
+        "id" : 1,
+        "name" : "Nikon Coolpix B500 Digital Camera (Black)",
+        "image" : "files/products/cam1.jpg",
+        "price" : 2200,
+        "discount" : 14,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 2,
+        "name" : "Nikon D7500 20.9MP DSLR Camera with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens, Black",
+        "image" : "files/products/cam2.jpg",
+        "price" : 2400,
+        "discount" : 17,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 3,
+        "name" : "Nikon Z 5 Camera Body, Black",
+        "image" : "files/products/cam3.jpg",
+        "price" : 2900,
+        "discount" : 14,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 4,
+        "name" : "Nikon Z 6II FX-Format Mirrorless Camera Body w/NIKKOR Z 24-70mm f/4 S, Black",
+        "image" : "files/products/cam4.jpg",
+        "price" : 2190,
+        "discount" : 14,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 5,
+        "name" : "Nikon Monarch FIELDSCOPE 82ED-A W/MEP-20-60, Black",
+        "image" : "files/products/cam5.jpg",
+        "price" : 1700,
+        "discount" : 10,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 6,
+        "name" : "Nikon Z5 Mirrorless Camera with NIKKOR Z 24-50mm Lens and FTZ Mount Adapter Bundle (2 Items)",
+        "image" : "files/products/cam6.jpg",
+        "price" : 2434,
+        "discount" : 20,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 7,
+        "name" : "Nikon Z6 Full Frame Mirrorless Camera Body",
+        "image" : "files/products/cam7.jpg",
+        "price" : 2980,
+        "discount" : 5,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 8,
+        "name" : "Nikon D850 FX-Format Digital SLR Camera Body",
+        "image" : "files/products/cam8.jpg",
+        "price" : 3200,
+        "discount" : 24,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 9,
+        "name" : "NIKON NIKKOR Z 24-200mm f/4-6.3 Compact Telephoto Zoom Lens for Nikon Z Mirrorless Cameras",
+        "image" : "files/products/cam9.jpg",
+        "price" : 1546,
+        "discount" : 0,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 10,
+        "name" : "NIKON NIKKOR Z 70-200mm f/2.8 S Telephoto Zoom Lens for Nikon Z Mirrorless Cameras",
+        "image" : "files/products/cam10.jpg",
+        "price" : 3498,
+        "discount" : 23,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 11,
+        "name" : "Nikon Z5 Mirrorless Digital Camera Body with Nikon FTZ Mount Adapter Bundle (2 Items)",
+        "image" : "files/products/cam11.jpg",
+        "price" : 3466,
+        "discount" : 8,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    },
+    {
+        "id" : 12,
+        "name" : "Z 50 DX-Format Mirrorless Camera Body w/ NIKKOR Z DX 16-50mm f/3.5-6.3 VR",
+        "image" : "files/products/cam12.jpg",
+        "price" : 2355,
+        "discount" : 14,
+        "features" : [
+            {
+                "name" : "brand",
+                "value" : "nikon"
+            },
+            {
+                "name" : "Lens Type",
+                "value" : "Standard"
+            },
+            {
+                "name" : "Maximum Focal Length",
+                "value" : "70 Millimeters"
+            },
+            {
+                "name" : "Style",
+                "value" : "Base"
+            }
+        ],
+        "ratings" : [],
+        "description" : "<ul><li>Make sure this fits by entering your model number.</li><li>Fast f/2.8 constant aperture with an electromagnetic diaphragm</li><li>Sensational image quality and sharpness with virtually no distortion, Focal Length Range : 24 to 70 millimeter</li><li>Minimum Focus Distance : 35 to 50 millimeter focal length : 1.2 feet (0.38 meter) from focal plane; 24, 28, 70 millimeter focal lengths : 1.3 feet (0.41 meter) from focal plane; Dimensions : Approx; 88.0 millimeter maximum diameter x 154.5 millimeter (distance from camera lens mount flange)</li><li>4 stops of Vibration Reduction for handheld and low light shooting, Nonstick glass makes it easier to wipe off water, dirt and smudges</li><li>Evolution of Nikon's legendary 24 to 70 millimeter workhorse.Type:Fmount, Type E AF S lens with built in CPU and F mount.Lens Elements:20</li></ul>"
+    }
+]
