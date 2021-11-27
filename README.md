@@ -16,6 +16,26 @@ Best Ecommerce solution.
 - Authentication with firebase
 - Fully responsive
 
+## Functionalities
+- Event CRUD
+- Cart Management
+- Customer dashboard
+- Admin dashboard
+- Customer order management
+- Customer review management
+- Product management
+- User management
+- Firebase 
+
+## Made by
+- REACT
+- REACT router
+- Node js
+- Express
+- Bootstrap
+- CSS3
+- HTML5
+
 
 
 **[⬆ back to top](#CamHaat)**
